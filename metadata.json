@@ -1,0 +1,6 @@
+{
+  "name": "Algerian COD eCommerce Management System Backend",
+  "description": "Supabase SQL schema patches, roles, idempotent stock triggers, and seed scripts for an Algerian Cash on Delivery business.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
